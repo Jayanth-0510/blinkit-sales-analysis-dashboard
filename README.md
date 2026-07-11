@@ -8,7 +8,7 @@ This Power BI dashboard analyzes Blinkit's grocery sales data to uncover busines
 
 ## Dashboard Preview
 
-(Add your main dashboard screenshot here)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
