@@ -26,9 +26,27 @@ This dashboard addresses the following business questions:
 
 ## Dashboard Preview
 
+### Overall Dashboard
+
 ![Dashboard](Images/Dashboard.png)
-![Outlet Location](Location_Filter.png)
-![Outlet Size](Outlet_Size_Filter.png)
+
+---
+
+### Location Filter
+
+![Location Filter](Images/Location_Filter.png)
+
+---
+
+### Outlet Size Filter
+
+![Outlet Size Filter](Images/Outlet_Size_Filter.png)
+
+---
+
+### Item Type Filter
+
+![Item Type Filter](Images/Item_Type_Filter.png)
 
 ---
 
