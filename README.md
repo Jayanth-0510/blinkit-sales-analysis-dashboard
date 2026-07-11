@@ -252,3 +252,8 @@ This project demonstrates how Power BI can transform raw sales data into meaning
 **Jayanth Neeleswara**
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights using SQL, Excel, Power BI, and Python.
+
+### Connect with me
+
+- **LinkedIn:** https://www.linkedin.com/in/neeleswara-jayanth/
+- **GitHub:** https://github.com/jayanth-0510
