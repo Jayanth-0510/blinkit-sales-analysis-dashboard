@@ -27,8 +27,8 @@ This dashboard addresses the following business questions:
 ## Dashboard Preview
 
 ![Dashboard](Images/Dashboard.png)
-![Outlet Location](Images/Outlet_Location.png)
-![Outlet Size](Images/Outlet_Size.png)
+![Outlet Location](Location_Filter.png)
+![Outlet Size](Outlet_Size_Filter.png)
 
 ---
 
